@@ -1,6 +1,6 @@
 # TextBasedGame.py
 # Author: Liam Farrell
-# Haunted High School Escape - Final Project for IT 140
+# Haunted High School Escape
 
 # Show the game instructions
 def show_instructions():
